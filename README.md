@@ -96,43 +96,11 @@ Simula um **monitoramento inteligente de uma missão espacial experimental**, de
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nicolascnishi&show_icons=true&hide_border=true&bg_color=0b0b0b&title_color=ff3b3b&text_color=f5f5f5&icon_color=ff3b3b&rank_icon=github" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascnishi&layout=compact&hide_border=true&bg_color=0b0b0b&title_color=ff3b3b&text_color=f5f5f5&langs_count=6" />
-
-</div>
-
----
-
 ## 🔥 Streak
 
 <div align="center">
 
   <img src="https://streak-stats.demolab.com?user=nicolascnishi&hide_border=true&background=0b0b0b&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b&sideLabels=f5f5f5&currStreakNum=f5f5f5&sideNums=f5f5f5&dates=888888" />
-
-</div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolascnishi&bg_color=0b0b0b&color=f5f5f5&line=ff3b3b&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=nicolascnishi&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
