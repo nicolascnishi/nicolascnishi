@@ -29,7 +29,7 @@ Sou estudante de **Ciência da Computação** na FIAP em São Paulo, com foco no
 - 🎓 Graduando em Ciência da Computação.
 - 💻 Atualmente focado em aprimorar minhas habilidades em **Python**, **C** e **C++**.
 - 🚀 Desenvolvendo projetos práticos, como o **ChargeGrid** (gestão inteligente para veículos elétricos) e o **Sabor Express** (aplicação de gerenciamento no terminal).
-- ⚡ Quando não estou codando, você me encontra jogando tênis, lendo *Vagabond* ou preparando um bom carbonara.
+- ⚡ Quando não estou codando, você me encontra jogando tênis, jogando algum jogo online e aprimorando a minhas habilidades na cozinha.
 
 <br>
 
