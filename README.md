@@ -94,11 +94,11 @@ Simula um **monitoramento inteligente de uma missão espacial experimental**, de
 
 🧮 Calculadora
 
-Calculadora interativa desenvolvida em Python, criada para praticar fundamentos de programação, lógica, funções, estruturas de repetição e operações matemáticas.
+**Calculadora interativa** desenvolvida em Python, criada para praticar fundamentos de programação, lógica, funções, estruturas de repetição e operações matemáticas.
 
-Tecnologia principal
+**Tecnologia principal**
 
-
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=FF3B3B)
 
 
 <br>
