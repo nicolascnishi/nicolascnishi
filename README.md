@@ -111,16 +111,6 @@ Simula um **monitoramento inteligente de uma missão espacial experimental**, de
 
 ---
 
-## 🔥 Streak
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=nicolascnishi&hide_border=true&background=0b0b0b&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b&sideLabels=f5f5f5&currStreakNum=f5f5f5&sideNums=f5f5f5&dates=888888" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
