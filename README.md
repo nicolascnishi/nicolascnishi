@@ -90,9 +90,24 @@ Simula um **monitoramento inteligente de uma missão espacial experimental**, de
   <img src="https://img.shields.io/badge/VER%20PROJETO-8B0000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
-    </td>
-  </tr>
-</table>
+<br><br>
+
+🧮 Calculadora
+
+Calculadora interativa desenvolvida em Python, criada para praticar fundamentos de programação, lógica, funções, estruturas de repetição e operações matemáticas.
+
+Tecnologia principal
+
+
+
+
+<br>
+
+<a href="https://github.com/nicolascnishi/Calculadora"> <img src="https://img.shields.io/badge/VER%20PROJETO-8B0000?style=for-the-badge&logo=github&logoColor=FFFFFF" /> </a>
+
+</td>
+
+</tr> </table>
 
 ---
 
